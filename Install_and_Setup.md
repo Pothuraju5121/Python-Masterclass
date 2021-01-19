@@ -24,6 +24,7 @@ Step 1: Open the Python App Page in the Microsoft Store
 Open the Microsoft Store app and search for Python.
 
 You’ll likely see multiple versions that you can choose to install:
+
 ![alt text](https://robocrop.realpython.net/?url=https%3A//files.realpython.com/media/Screen_Shot_2020-07-16_at_11.06.17_AM.4b41c401c5aa.png&w=512&sig=060909237a3b606788920f0a2d4d43ec06698113)
 
 Select Python 3.8, or the highest version number you see available in the app, to open the installation page.
@@ -61,6 +62,7 @@ When the installer is finished downloading, move on to the next step.
 
 Step 2: Run the Installer
 Once you’ve chosen and downloaded an installer, run it by double-clicking on the downloaded file. A dialog box like the one below will appear:
+
 ![alt text](https://robocrop.realpython.net/?url=https%3A//files.realpython.com/media/Screen_Shot_2020-07-16_at_11.19.15_AM.6e62bfc6eede.png&w=640&sig=fa226c3bdd5950cf543a309a47e89789e9a19a9f)
 
 There are four things to notice about this dialog box:
