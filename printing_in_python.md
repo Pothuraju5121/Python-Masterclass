@@ -31,3 +31,31 @@ You don’t pass any arguments, but you still need to put empty parentheses at t
 
 As you just saw, calling print() without arguments results in a blank line, which is a line comprised solely of the newline character. Don’t confuse this with an empty line, which doesn’t contain any characters at all, not even the newline!
 
+> **String Literals**
+>
+> String literals in Python can be enclosed either in single quotes (') or double quotes ("). According to the official PEP 8 style guide, you should just pick one and keep using it consistently. There’s no difference, unless you need to nest one in another.
+>
+> For example, you can’t use double quotes for the literal and also include double quotes inside of it, because that’s ambiguous for the Python interpreter:
+>
+>       "My favorite book is "Python Tricks""  # Wrong!
+>
+> What you want to do is enclose the text, which contains double quotes, within single quotes:
+>
+>       'My favorite book is "Python Tricks"'
+>
+> The same trick would work the other way around:
+>
+>       "My favorite book is 'Python Tricks'"
+>
+> Alternatively, you could use escape character sequences mentioned earlier, to make Python treat those internal double quotes literally as part of the string literal:
+>
+>       "My favorite book is \"Python Tricks\""
+
+Lastly, you can define multi-line string literals by enclosing them between ''' or """, which are often used as docstrings.
+
+Here’s an example:  
+        """  
+This is an example  
+of a multi-line string  
+in Python.  
+"""
