@@ -1,15 +1,15 @@
-How to Install Python on Windows
+# **How to Install Python on Windows**
 There are three installation methods on Windows:
 
-1. The Microsoft Store: The most straightforward installation method on Windows involves installing from the Microsoft Store app. This is recommended for beginner Python users looking for an easy-to-set-up interactive experience.
-2. The full installer: This approach involves downloading Python directly from the [Python.org website.](https://www.python.org/) This is recommended for intermediate and advanced developers who need more control during the setup process.
-3. Windows Subsystem for Linux: The WSL allows you to run a Linux environment directly in Windows. You can learn how to enable the WSL by reading the [Windows Subsystem for Linux Installation Guide for Windows 10.](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+1. **The Microsoft Store:** The most straightforward installation method on Windows involves installing from the Microsoft Store app. This is recommended for beginner Python users looking for an easy-to-set-up interactive experience.
+2. **The full installer:** This approach involves downloading Python directly from the [Python.org website.](https://www.python.org/) This is recommended for intermediate and advanced developers who need more control during the setup process.
+3. **Windows Subsystem for Linux:** The WSL allows you to run a Linux environment directly in Windows. You can learn how to enable the WSL by reading the [Windows Subsystem for Linux Installation Guide for Windows 10.](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 In this section, you’ll learn how to check which version of Python, if any, is installed on your Windows computer. You’ll also learn which of the three installation methods you should use.
 
 In this section, we’ll focus on only the first two options, which are the most popular installation methods in a Windows environment.
 
-Limitations of the Microsoft Store Package
+### Limitations of the Microsoft Store Package
 The official Python documentation has this to say about the Microsoft Store package:
 > The Microsoft Store package is an easily installable Python interpreter that is intended mainly for interactive use, for example, by students.
 
@@ -17,7 +17,7 @@ The key takeaway here is that the Microsoft Store package is “intended mainly 
 
 In addition to targeting beginning Pythonistas, the Microsoft Store package has limitations that make it ill-suited for a professional development environment. In particular, it does not have full write access to shared locations such as TEMP or the registry.
 
-How to Install From the Microsoft Store
+### **How to Install From the Microsoft Store**
 If you’re new to Python and looking to get started quickly, then the Microsoft Store package is the best way to get up and running without any fuss. You can install from the Microsoft Store in two steps.
 
 Step 1: Open the Python App Page in the Microsoft Store
@@ -43,7 +43,7 @@ After you’ve selected the version to be installed, follow these steps to compl
 
 Now, you will have access to Pyhton, including pip and IDLE.
 
-How to Install From the Full Installer
+### **How to Install From the Full Installer**
 For professional developers who need a full-featured Python development environment, installing from the full installer is the right choice. It offers more customization and control over the installation than installing from the Microsoft Store.
 
 You can install from the full installer in two steps.
@@ -79,7 +79,7 @@ Customize the installation to meet your needs using the options available on the
 
 Now, you have the latest version of Python 3 on your Windows machine.
 
-How to Check Your Python Version on Windows
+### How to Check Your Python Version on Windows
 To check if you already have Python on your Windows machine, first open a command-line application, such as Terminal.
 > Tip: Here’s how you open PowerShell:
 
