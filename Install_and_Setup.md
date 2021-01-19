@@ -1,5 +1,3 @@
-[link](https://realpython.com/installing-python/#how-to-install-python-on-windows)
-
 How to Install Python on Windows
 There are three installation methods on Windows:
 
