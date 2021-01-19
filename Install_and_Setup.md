@@ -84,7 +84,16 @@ Now, you have the latest version of Python 3 on your Windows machine.
 How to Check Your Python Version on Windows
 To check if you already have Python on your Windows machine, first open a command-line application, such as Terminal.
 > Tip: Here’s how you open PowerShell:
-Press the Win key.
-Type PowerShell.
-Press Enter.
-Alternatively, you can right-click the Start button and select Windows PowerShell or Windows PowerShell (Admin).
+
+> Press the Win key.
+
+> Type PowerShell.
+
+> Press Enter.
+
+> Alternatively, you can right-click the Start button and select Windows PowerShell or Windows PowerShell (Admin).
+
+With the command line open, type in the following command and press Enter:
+
+> C:\> python --version
+> Python 3.8.4
