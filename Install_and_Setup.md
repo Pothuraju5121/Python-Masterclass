@@ -96,4 +96,5 @@ To check if you already have Python on your Windows machine, first open a comman
 With the command line open, type in the following command and press Enter:
 
 > C:\> python --version
+
 > Python 3.8.4
