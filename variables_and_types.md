@@ -25,3 +25,9 @@ Because we created greeting by attaching it to a string value, Python also decid
 | % Modulus | Divides left hand operand by right hand operand and returns remainder | b%a=0 |
 | ** Exponent | Performs exponential (power) calculation on operators | a**b =10 to the power 20 |
 | // Floor Division | 	Floor Division - The division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero (towards negative infinity) − | 9//2 = 4 and 9.0//2.0 = 4.0, -11//3 = -4, -11.0//3 = -4.0| 
+
+
+| H | a | r | i |  | K | r | i | s | h | n | a |
+|---|---|---|---|--|---|---|---|---|---|---|---|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| -12 | -11 | -10 | -9 | -8 | -7 | -6 | -5 | -4 | -3 | -2 | -1 |
